@@ -2,6 +2,7 @@
 # 👨‍💻 Software Development Projects
 
 Welcome to my portfolio showcasing various software development projects. Below are some of the iOS applications I've worked on:
+<br>
 
 ## NGO Tajikistan
 An app for a non-profit organization featuring critical information such as news, feedback, and laws, easily accessible for people in the region. This comprehensive platform provides a valuable resource for individuals seeking essential information in an intuitive and user-friendly way.
@@ -12,6 +13,27 @@ An app for a non-profit organization featuring critical information such as news
   <img src="https://user-images.githubusercontent.com/18241760/210917749-a23478bd-eab5-482d-8f9a-e7a5c379f526.PNG" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210917807-17cf39d2-7dc7-4e6b-8d6b-3b7c4f4b6554.PNG" width="150" height="320">
 </p>
+
+### Features
+
+- **Multilingual Support:** Accessible in three languages.
+
+- **Offline Functionality:** Utilizes Realm for local data storage; works without internet.
+
+- **Document Handling:** Share and download options for documents.
+
+- **User Feedback:** In-app feedback system for user input; includes a rating feature.
+
+- **Push Notifications:** Firebase integration for timely news updates.
+
+- **News Section:** Displays all related news related to the organization.
+
+- **Bookmarking:** Save and organize important content.
+
+- **Visual Design:** Intuitive, user-friendly interface.
+
+ <br>
+
  
 ## Avrang
 Avrang - an eCommerce app for the biggest home goods store in Dushanbe where user has the option to purchase online, the app also included a feature where users could take an advantage of installment plans offered by local banks, making it even easier for customers to shop.</b>
