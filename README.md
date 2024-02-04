@@ -71,7 +71,7 @@ Avrang - an eCommerce app for the biggest home goods store in Dushanbe where use
 <br>
 
 ## Oson Driver
-Oson Driver - an app for couriers who want to work in the Oson Eats delivery service which is located in Khujand city, Tajikistan.</b>
+Oson Driver - a delivery app designed for couriers seeking opportunities to work with Oson Eats, a delivery service is located in Khujand city, Tajikistan. </b>
   - [view in App Store](https://apps.apple.com/us/app/osondriver/id1598074335)  
  
   <p align="center">
@@ -81,8 +81,27 @@ Oson Driver - an app for couriers who want to work in the Oson Eats delivery ser
   <img src="https://user-images.githubusercontent.com/18241760/210918660-821072bb-e99f-4a06-8dc8-20b565549748.jpg " width="150" height="320">
 </p>
 
+## Features:
+
+- **Real-time Database:** Utilizes a real-time database for instant updates and synchronization of new orders.
+
+- **Status Updates:** Shows the real-time updates on order status, including pickup and delivery.
+
+- **Earnings Tracking:** Monitors and tracks earnings for completed deliveries.
+
+- **Delivery History:** Accesses a history of completed deliveries for reference.
+
+- **Notifications:**
+  - Receives timely notifications for new orders, updates, and important announcements.
+    
+**Routing:**
+  - Creates routes for seamless navigation through Google Maps.
+
+<br>
+
 ## Livo Driver
-Livo Driver - an app for couriers who want to work in the Livo Go delivery service which is located in Dushanbe, Tajikistan.</b>
+Livo Driver - a delivery app designed for couriers to work with Livo Go, a delivery service is located in Dushanbe city, Tajikistan. </b>
+
   - [view in App Store](https://apps.apple.com/us/app/livodriver/id1626231441)  
  
   <p align="center">
@@ -91,6 +110,24 @@ Livo Driver - an app for couriers who want to work in the Livo Go delivery servi
   <img src="https://user-images.githubusercontent.com/18241760/210921255-cf04e02c-c488-477f-9abf-968316bef60a.png" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210921257-8417703c-3ed6-40a5-a468-45e021a9a037.png" width="150" height="320">
 </p>
+
+## Features:
+
+- **Real-time Database:** Utilizes a real-time database for instant updates and synchronization of new orders.
+
+- **Status Updates:** Shows the real-time updates on order status, including pickup and delivery.
+
+- **Earnings Tracking:** Monitors and tracks earnings for completed deliveries.
+
+- **Delivery History:** Accesses a history of completed deliveries for reference.
+
+- **Notifications:**
+  - Receives timely notifications for new orders, updates, and important announcements.
+    
+**Routing:**
+  - Creates routes for seamless navigation through Google Maps.
+
+<br>
 
 ## Khorugh
 Khorugh - a pioneering platform for people living or traveling to Khorugh city in Mountain Badakhshan, Tajikistan. This comprehensive app includes features such as news, jobs, events, currencies, weather, and other city-related information, providing a valuable resource for locals and visitors. </b>
