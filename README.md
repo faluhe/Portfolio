@@ -47,6 +47,29 @@ Avrang - an eCommerce app for the biggest home goods store in Dushanbe where use
   <img src="https://user-images.githubusercontent.com/18241760/210918350-dc2087ea-ccac-4842-a3c2-d1bfb6cf3cee.PNG" width="150" height="320">
 </p>
 
+## Features:
+
+- **Product Catalog:** Explore a diverse and extensive collection of products. The user-friendly interface allows for easy navigation, ensuring a delightful and immersive shopping experience.
+
+- **Shopping Cart:** Effortlessly manage and review selected items, streamlining your shopping experience for a hassle-free checkout.
+
+- **Bookmarks:** Save your favorite items for quick access, personalizing your shopping journey with saved preferences.
+
+- **User Authentication:** Secure log-in ensures personalized accounts, allowing you to track order history and manage your profile.
+
+- **Profile Management:** Edit personal details and preferences, customizing your address, icon and region.
+
+- **Installment Plans:** Benefit from local bank integration for flexible payment options, enhancing financial convenience.
+
+- **Filtering:** Refine search results with advanced filtering options, helping you find specific items based on categories, price ranges, and more.
+
+- **Order Details:** View order details, including itemized lists and order status updates.
+
+- **Sliders and Banners:** Stay informed about special offers, discounts, and important announcements through eye-catching sliders and banners.
+
+
+<br>
+
 ## Oson Driver
 Oson Driver - an app for couriers who want to work in the Oson Eats delivery service which is located in Khujand city, Tajikistan.</b>
   - [view in App Store](https://apps.apple.com/us/app/osondriver/id1598074335)  
