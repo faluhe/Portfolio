@@ -1,40 +1,7 @@
  
 # 👨‍💻 Software Development Projects
 
-Welcome to my portfolio showcasing various software development projects. Below are some of the iOS applications I've worked on:
-<br>
 
-## NGO Tajikistan
-An app for a non-profit organization featuring critical information such as news, feedback, and laws, easily accessible for people in the region. This comprehensive platform provides a valuable resource for individuals seeking essential information in an intuitive and user-friendly way.
- 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/18241760/210917157-201983f4-7846-4926-94a4-94482a14e69c.PNG" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210917193-91ebdb45-ce84-4ecd-8a5e-286ded21b79f.PNG" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210917749-a23478bd-eab5-482d-8f9a-e7a5c379f526.PNG" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210917807-17cf39d2-7dc7-4e6b-8d6b-3b7c4f4b6554.PNG" width="150" height="320">
-</p>
-
-### Features
-
-- **Multilingual Support:** Accessible in three languages.
-
-- **Offline Functionality:** Utilizes Realm for local data storage; works without internet.
-
-- **Document Handling:** Share and download options for documents.
-
-- **User Feedback:** In-app feedback system for user input; includes a rating feature.
-
-- **Push Notifications:** Firebase integration for timely news updates.
-
-- **News Section:** Displays all related news related to the organization.
-
-- **Bookmarking:** Save and organize important content.
-
-- **Visual Design:** Intuitive, user-friendly interface.
-
- <br>
-
- 
 ## Avrang
 Avrang - an eCommerce app for the biggest home goods store in Dushanbe where user has the option to purchase online, the app also included a feature where users could take an advantage of installment plans offered by local banks, making it even easier for customers to shop.</b>
   - [view in App Store](https://apps.apple.com/us/app/avrang/id1609472437)  
@@ -69,6 +36,43 @@ Avrang - an eCommerce app for the biggest home goods store in Dushanbe where use
 
 
 <br>
+
+
+## Livo Go 
+Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
+ 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/18241760/210922453-f473a01d-5e9b-48ed-b124-66a99aa1740b.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922498-4599be68-e479-4640-9cb4-e08d87fa9c69.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922495-3bdc342e-aab9-4e4e-9744-4d202aafd9ec.PNG" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922832-c91d35c1-355f-4f9c-bb29-1dcf280b599e.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922836-38390406-bb35-4294-ad86-d6c37e2e0563.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922837-eaab5833-768f-48aa-a67f-c1f277c73da4.png" width="150" height="320">
+</p>
+
+- **Products:**  Explore a diverse range of products from various categories.
+
+- **Partner Integration:** Facilitate the sale of products by partnering with various sellers and vendors.
+
+- **User-Friendly Interface:** Navigate the app effortlessly with a user-friendly design.
+
+- **Order Tracking:** Track the status of your orders for enhanced transparency.
+
+- **Search and Filter Options:** Easily find products with robust search and filter functionalities.
+
+- **Notification System:** Stay informed about new products, promotions, and order updates through notifications.
+
+- **Order Management:** Easily place and track orders for a streamlined shopping process.
+
+- **Shopping Cart:** Add products to your shopping cart for convenient and efficient shopping.
+
+- **Map Integration:** Seamlessly integrate Yandex Maps for precise location and navigation services.
+
+<br>
+
+Welcome to my portfolio showcasing various software development projects. Below are some of the iOS applications I've worked on:
+<br>
+
 
 ## Oson Driver
 Oson Driver - a delivery app designed for couriers seeking opportunities to work with Oson Eats, a delivery service is located in Khujand city, Tajikistan. </b>
@@ -127,7 +131,7 @@ Livo Driver - a delivery app designed for couriers to work with Livo Go, a deliv
 
 ## Khorugh
 Khorugh - a pioneering platform for people living or traveling to Khorugh city in Mountain Badakhshan, Tajikistan. This comprehensive app includes features such as news, jobs, events, currencies, weather, and other city-related information, providing a valuable resource for locals and visitors. </b>
-  - to be released  
+
  
   <p align="center">
   <img src="https://user-images.githubusercontent.com/18241760/210921486-85e94566-5000-4926-acaa-c246b2fafcb7.PNG" width="150" height="320">
@@ -163,52 +167,37 @@ Khorugh - a pioneering platform for people living or traveling to Khorugh city i
 
 <br>
 
-## Livo Go 
-Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
-  - to be released  
+
+## NGO Tajikistan
+An app for a non-profit organization featuring critical information such as news, feedback, and laws, easily accessible for people in the region. This comprehensive platform provides a valuable resource for individuals seeking essential information in an intuitive and user-friendly way.
  
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/18241760/210922453-f473a01d-5e9b-48ed-b124-66a99aa1740b.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922498-4599be68-e479-4640-9cb4-e08d87fa9c69.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922495-3bdc342e-aab9-4e4e-9744-4d202aafd9ec.PNG" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922832-c91d35c1-355f-4f9c-bb29-1dcf280b599e.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922836-38390406-bb35-4294-ad86-d6c37e2e0563.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922837-eaab5833-768f-48aa-a67f-c1f277c73da4.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210917157-201983f4-7846-4926-94a4-94482a14e69c.PNG" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210917193-91ebdb45-ce84-4ecd-8a5e-286ded21b79f.PNG" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210917749-a23478bd-eab5-482d-8f9a-e7a5c379f526.PNG" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210917807-17cf39d2-7dc7-4e6b-8d6b-3b7c4f4b6554.PNG" width="150" height="320">
 </p>
 
-- **Products:**  Explore a diverse range of products from various categories.
+### Features
 
-- **Partner Integration:** Facilitate the sale of products by partnering with various sellers and vendors.
+- **Multilingual Support:** Accessible in three languages.
 
-- **User-Friendly Interface:** Navigate the app effortlessly with a user-friendly design.
+- **Offline Functionality:** Utilizes Realm for local data storage; works without internet.
 
-- **Order Tracking:** Track the status of your orders for enhanced transparency.
+- **Document Handling:** Share and download options for documents.
 
-- **Search and Filter Options:** Easily find products with robust search and filter functionalities.
+- **User Feedback:** In-app feedback system for user input; includes a rating feature.
 
-- **Notification System:** Stay informed about new products, promotions, and order updates through notifications.
+- **Push Notifications:** Firebase integration for timely news updates.
 
-- **Order Management:** Easily place and track orders for a streamlined shopping process.
+- **News Section:** Displays all related news related to the organization.
 
-- **Shopping Cart:** Add products to your shopping cart for convenient and efficient shopping.
+- **Bookmarking:** Save and organize important content.
 
-- **Map Integration:** Seamlessly integrate Yandex Maps for precise location and navigation services.
+- **Visual Design:** Intuitive, user-friendly interface.
 
-<br>
+ <br>
 
-
-## Dinar 
-Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
-  - to be released  
- 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/18241760/210922453-f473a01d-5e9b-48ed-b124-66a99aa1740b.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922498-4599be68-e479-4640-9cb4-e08d87fa9c69.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922495-3bdc342e-aab9-4e4e-9744-4d202aafd9ec.PNG" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922832-c91d35c1-355f-4f9c-bb29-1dcf280b599e.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922836-38390406-bb35-4294-ad86-d6c37e2e0563.png" width="150" height="320">
-  <img src="https://user-images.githubusercontent.com/18241760/210922837-eaab5833-768f-48aa-a67f-c1f277c73da4.png" width="150" height="320">
-</p>
 
 
 <h2>📞 Contacts:</h2>
