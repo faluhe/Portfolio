@@ -91,11 +91,9 @@ Oson Driver - a delivery app designed for couriers seeking opportunities to work
 
 - **Delivery History:** Accesses a history of completed deliveries for reference.
 
-- **Notifications:**
-  - Receives timely notifications for new orders, updates, and important announcements.
+- **Notifications:** Receives timely notifications for new orders, updates, and important announcements.
     
-**Routing:**
-  - Creates routes for seamless navigation through Google Maps.
+- **Routing:** Creates routes for seamless navigation through Google Maps.
 
 <br>
 
@@ -121,11 +119,9 @@ Livo Driver - a delivery app designed for couriers to work with Livo Go, a deliv
 
 - **Delivery History:** Accesses a history of completed deliveries for reference.
 
-- **Notifications:**
-  - Receives timely notifications for new orders, updates, and important announcements.
+- **Notifications:** Receives timely notifications for new orders, updates, and important announcements.
     
-**Routing:**
-  - Creates routes for seamless navigation through Google Maps.
+- **Routing:** Creates routes for seamless navigation through Google Maps.
 
 <br>
 
@@ -141,7 +137,32 @@ Khorugh - a pioneering platform for people living or traveling to Khorugh city i
   <img src="https://user-images.githubusercontent.com/18241760/210922190-64fd3bb0-df55-4524-a2c8-0eb25d5a112c.PNG" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210922337-f4d7bed2-049e-41d6-8b31-a4ff2a5bf597.PNG" width="150" height="320">
 </p>
- 
+
+## Features:
+
+ - **News Section:** Stay informed with the latest updates and news relevant to Khorugh city.
+
+- **Job Listings:** Access job opportunities available in the city.
+
+- **Events Calendar:** Stay updated on local events happening in and around Khorugh.
+
+- **Currency Information:** Get real-time currency exchange rates for convenient financial transactions.
+
+- **Weather Updates:** Check the current weather conditions in Khorugh for better planning.
+
+- **City Information:** Access a variety of city-related information to make informed decisions.
+
+- **Interactive Map:** Explore Khorugh with an interactive map, aiding navigation and exploration.
+
+- **Multi-language Support:** Access the app in multiple languages for a user-friendly experience.
+
+- **Localized Content:** Tailored content to meet the specific needs of locals and visitors.
+
+- **User-Friendly Interface:** Navigate the app with ease for a seamless user experience.
+
+
+<br>
+
 ## Livo Go 
 Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
   - to be released  
@@ -154,6 +175,26 @@ Livo Go - a marketplace app that is the first of its kind in the region and has 
   <img src="https://user-images.githubusercontent.com/18241760/210922836-38390406-bb35-4294-ad86-d6c37e2e0563.png" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210922837-eaab5833-768f-48aa-a67f-c1f277c73da4.png" width="150" height="320">
 </p>
+
+- **Products:**  Explore a diverse range of products from various categories.
+
+- **Partner Integration:** Facilitate the sale of products by partnering with various sellers and vendors.
+
+- **User-Friendly Interface:** Navigate the app effortlessly with a user-friendly design.
+
+- **Order Tracking:** Track the status of your orders for enhanced transparency.
+
+- **Search and Filter Options:** Easily find products with robust search and filter functionalities.
+
+- **Notification System:** Stay informed about new products, promotions, and order updates through notifications.
+
+ **Order Management:** Easily place and track orders for a streamlined shopping process.
+
+- **Shopping Cart:** Add products to your shopping cart for convenient and efficient shopping.
+
+- **Map Integration:** Seamlessly integrate Yandex Maps for precise location and navigation services.
+
+<br>
 
 <h2>📞 Contacts:</h2>
 - <b>Email: farrukhismailov@gmail.com</b><br></<br>
