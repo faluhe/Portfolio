@@ -188,13 +188,28 @@ Livo Go - a marketplace app that is the first of its kind in the region and has 
 
 - **Notification System:** Stay informed about new products, promotions, and order updates through notifications.
 
- **Order Management:** Easily place and track orders for a streamlined shopping process.
+- **Order Management:** Easily place and track orders for a streamlined shopping process.
 
 - **Shopping Cart:** Add products to your shopping cart for convenient and efficient shopping.
 
 - **Map Integration:** Seamlessly integrate Yandex Maps for precise location and navigation services.
 
 <br>
+
+
+## Dinar 
+Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
+  - to be released  
+ 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/18241760/210922453-f473a01d-5e9b-48ed-b124-66a99aa1740b.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922498-4599be68-e479-4640-9cb4-e08d87fa9c69.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922495-3bdc342e-aab9-4e4e-9744-4d202aafd9ec.PNG" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922832-c91d35c1-355f-4f9c-bb29-1dcf280b599e.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922836-38390406-bb35-4294-ad86-d6c37e2e0563.png" width="150" height="320">
+  <img src="https://user-images.githubusercontent.com/18241760/210922837-eaab5833-768f-48aa-a67f-c1f277c73da4.png" width="150" height="320">
+</p>
+
 
 <h2>📞 Contacts:</h2>
 - <b>Email: farrukhismailov@gmail.com</b><br></<br>
