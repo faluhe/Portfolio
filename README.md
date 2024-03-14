@@ -70,9 +70,6 @@ Livo Go - a marketplace app that is the first of its kind in the region and has 
 
 <br>
 
-Welcome to my portfolio showcasing various software development projects. Below are some of the iOS applications I've worked on:
-<br>
-
 
 ## Oson Driver
 Oson Driver - a delivery app designed for couriers seeking opportunities to work with Oson Eats, a delivery service is located in Khujand city, Tajikistan. </b>
